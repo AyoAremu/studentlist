@@ -18,6 +18,7 @@ public class Student {
     
     
    private int MaxHours;
+   //something difernt
    
     public Student()
     {
